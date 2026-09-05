@@ -1,0 +1,29 @@
+{
+    "animal": {
+        "name": "小白",
+        "stage": 2,
+        "exp": 262,
+        "coins": 36,
+        "happiness": 100,
+        "hunger": 100,
+        "lastActive": 1788636227643,
+        "lastSignIn": "2026-09-06"
+    },
+    "progress": {
+        "chinese": {
+            "answered": 16,
+            "correct": 10
+        },
+        "math": {
+            "answered": 0,
+            "correct": 0
+        },
+        "english": {
+            "answered": 10,
+            "correct": 6
+        },
+        "totalAnswered": 26,
+        "totalCorrect": 16,
+        "lastDay": ""
+    }
+}

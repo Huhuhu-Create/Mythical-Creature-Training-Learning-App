@@ -1,0 +1,741 @@
+{
+  "题库信息": {
+    "名称": "人教版PEP六年级英语下册选择题题库",
+    "学科": "英语",
+    "年级": "六年级",
+    "版本": "人教版PEP",
+    "题目总数": 42,
+    "题型": "单项选择题",
+    "涵盖范围": "六年级上册与下册",
+    "知识点分类": [
+      "一般过去时",
+      "一般将来时",
+      "比较级与最高级",
+      "交通方式与问路",
+      "职业与梦想",
+      "爱好与日常活动",
+      "旅行与假期",
+      "感受与情感",
+      "there be句型",
+      "情态动词",
+      "时间与频率副词",
+      "代词与介词",
+      "阅读与情景交际"
+    ],
+    "学期": "下册"
+  },
+  "题目": [
+    {
+      "id": 1,
+      "类别": "比较级与最高级",
+      "难度": "中等",
+      "题干": "Hainan is one of the most beautiful _____ in China.",
+      "选项": {
+        "A": "city",
+        "B": "cities",
+        "C": "country",
+        "D": "countries"
+      },
+      "答案": "B",
+      "解析": "one of + 最高级 + 复数名词。海南是中国最美丽的城市之一，用cities。",
+      "知识点": [
+        "最高级",
+        "one of结构"
+      ]
+    },
+    {
+      "id": 2,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "_____ you have a good time yesterday?",
+      "选项": {
+        "A": "Does",
+        "B": "Do",
+        "C": "Did",
+        "D": "Were"
+      },
+      "答案": "C",
+      "解析": "yesterday是过去时间标志词，一般过去时的疑问句用Did开头。",
+      "知识点": [
+        "一般过去时疑问句"
+      ]
+    },
+    {
+      "id": 3,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "She _____ Beijing last month.",
+      "选项": {
+        "A": "is going to",
+        "B": "went to visit",
+        "C": "wanted to visit",
+        "D": "go to visited"
+      },
+      "答案": "C",
+      "解析": "last month表示过去时间，需要用过去式。wanted to visit表示\"想要去参观\"。",
+      "知识点": [
+        "一般过去时",
+        "want to do结构"
+      ]
+    },
+    {
+      "id": 4,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "Children like to _____ up late _____ the eve of the Spring Festival.",
+      "选项": {
+        "A": "stay, at",
+        "B": "stayed, on",
+        "C": "stay, on",
+        "D": "stays, in"
+      },
+      "答案": "C",
+      "解析": "like to后接动词原形stay；on the eve of表示\"在……前夕\"。",
+      "知识点": [
+        "like to do",
+        "介词on与时间搭配"
+      ]
+    },
+    {
+      "id": 5,
+      "类别": "一般将来时",
+      "难度": "基础",
+      "题干": "They _____ to Beijing next year.",
+      "选项": {
+        "A": "will go",
+        "B": "wants to go",
+        "C": "went",
+        "D": "go"
+      },
+      "答案": "A",
+      "解析": "next year表示将来时间，用will go。",
+      "知识点": [
+        "一般将来时will"
+      ]
+    },
+    {
+      "id": 6,
+      "类别": "比较级与最高级",
+      "难度": "中等",
+      "题干": "Which city is _____, Sanya or Shanghai?",
+      "选项": {
+        "A": "most beautiful",
+        "B": "the most beautiful",
+        "C": "more beautiful",
+        "D": "the best"
+      },
+      "答案": "C",
+      "解析": "两者比较用比较级more beautiful，不需要加the。",
+      "知识点": [
+        "比较级",
+        "两者比较"
+      ]
+    },
+    {
+      "id": 7,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "He _____ this diary _____ Feb. 8th.",
+      "选项": {
+        "A": "write, on",
+        "B": "writes, in",
+        "C": "wrote, on",
+        "D": "write, at"
+      },
+      "答案": "C",
+      "解析": "具体某一天用介词on，写日记是过去的事用过去式wrote。",
+      "知识点": [
+        "一般过去时",
+        "介词on与具体日期"
+      ]
+    },
+    {
+      "id": 8,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "They _____ themselves in America last year.",
+      "选项": {
+        "A": "enjoy",
+        "B": "will enjoy",
+        "C": "enjoyed",
+        "D": "enjoys"
+      },
+      "答案": "C",
+      "解析": "last year是过去时间标志，用一般过去时enjoyed。enjoy oneself意为\"玩得开心\"。",
+      "知识点": [
+        "一般过去时",
+        "enjoy oneself"
+      ]
+    },
+    {
+      "id": 9,
+      "类别": "一般将来时",
+      "难度": "基础",
+      "题干": "I _____ to Shanghai with my family next week.",
+      "选项": {
+        "A": "am going",
+        "B": "will go",
+        "C": "go",
+        "D": "went"
+      },
+      "答案": "A",
+      "解析": "next week表将来，be going to表示计划要做的事。am going后省略了to go。此处两个选项均可表将来，但am going更强调已有计划。",
+      "知识点": [
+        "一般将来时be going to"
+      ]
+    },
+    {
+      "id": 10,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "We _____ his son on the street yesterday.",
+      "选项": {
+        "A": "see",
+        "B": "sees",
+        "C": "saw",
+        "D": "will see"
+      },
+      "答案": "C",
+      "解析": "yesterday表示过去，see的过去式是saw。",
+      "知识点": [
+        "一般过去时",
+        "不规则动词see-saw"
+      ]
+    },
+    {
+      "id": 11,
+      "类别": "一般将来时",
+      "难度": "基础",
+      "题干": "What are you going to do this weekend? I'm going to _____.",
+      "选项": {
+        "A": "visit my grandparents",
+        "B": "visited my grandparents",
+        "C": "visiting my grandparents"
+      },
+      "答案": "A",
+      "解析": "be going to后接动词原形，表示将来的计划。",
+      "知识点": [
+        "一般将来时be going to + 动词原形"
+      ]
+    },
+    {
+      "id": 12,
+      "类别": "一般将来时",
+      "难度": "基础",
+      "题干": "She is going to _____ a scientist.",
+      "选项": {
+        "A": "is",
+        "B": "be",
+        "C": "are"
+      },
+      "答案": "B",
+      "解析": "be going to后接动词原形，is的原形是be。",
+      "知识点": [
+        "一般将来时",
+        "be的原形"
+      ]
+    },
+    {
+      "id": 13,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "What _____ you do last weekend?",
+      "选项": {
+        "A": "do",
+        "B": "did",
+        "C": "does"
+      },
+      "答案": "B",
+      "解析": "last weekend是过去时间，用一般过去时疑问句Did + 主语 + 动词原形。",
+      "知识点": [
+        "一般过去时疑问句"
+      ]
+    },
+    {
+      "id": 14,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "I _____ a cold last night, so I _____ stay at home.",
+      "选项": {
+        "A": "have; have to",
+        "B": "had; had to",
+        "C": "had; have to"
+      },
+      "答案": "B",
+      "解析": "last night是过去时间，have的过去式是had，have to的过去式是had to。",
+      "知识点": [
+        "一般过去时",
+        "had to"
+      ]
+    },
+    {
+      "id": 15,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "Did she _____ swimming yesterday?",
+      "选项": {
+        "A": "went",
+        "B": "go",
+        "C": "goes"
+      },
+      "答案": "B",
+      "解析": "Did开头的疑问句，后面动词用原形。go swimming意为\"去游泳\"。",
+      "知识点": [
+        "一般过去时疑问句",
+        "go + doing"
+      ]
+    },
+    {
+      "id": 16,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "We _____ many pictures in the park last Sunday.",
+      "选项": {
+        "A": "take",
+        "B": "took",
+        "C": "are taking"
+      },
+      "答案": "B",
+      "解析": "last Sunday是过去时间标志词，take的过去式是took。take pictures意为\"拍照\"。",
+      "知识点": [
+        "一般过去时",
+        "不规则动词take-took"
+      ]
+    },
+    {
+      "id": 17,
+      "类别": "比较级与最高级",
+      "难度": "基础",
+      "题干": "Tom is 160 cm. Jim is 165 cm. Jim is _____ than Tom.",
+      "选项": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest"
+      },
+      "答案": "B",
+      "解析": "两个人比较身高，用比较级taller + than。",
+      "知识点": [
+        "比较级",
+        "than"
+      ]
+    },
+    {
+      "id": 18,
+      "类别": "比较级与最高级",
+      "难度": "中等",
+      "题干": "My shoes are _____ than yours.",
+      "选项": {
+        "A": "big",
+        "B": "bigger",
+        "C": "biggest"
+      },
+      "答案": "B",
+      "解析": "有than表示两者比较，用比较级bigger。big双写g加er。",
+      "知识点": [
+        "比较级",
+        "双写辅音字母加er"
+      ]
+    },
+    {
+      "id": 19,
+      "类别": "比较级与最高级",
+      "难度": "中等",
+      "题干": "I am _____ than my brother, but he is _____ than me.",
+      "选项": {
+        "A": "thinner; stronger",
+        "B": "thin; strong",
+        "C": "thiner; stronger"
+      },
+      "答案": "A",
+      "解析": "两个人比较用比较级。thin的比较级是thinner（双写n加er），strong的比较级是stronger。",
+      "知识点": [
+        "比较级",
+        "不规则变化"
+      ]
+    },
+    {
+      "id": 20,
+      "类别": "比较级与最高级",
+      "难度": "提高",
+      "题干": "Zhang Peng is the _____ student in our class.",
+      "选项": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest"
+      },
+      "答案": "C",
+      "解析": "in our class表示在全班范围内，三者以上比较用最高级tallest，前面加the。",
+      "知识点": [
+        "最高级",
+        "the + 最高级 + in"
+      ]
+    },
+    {
+      "id": 21,
+      "类别": "旅行与假期",
+      "难度": "基础",
+      "题干": "Where did you go _____ your holiday?",
+      "选项": {
+        "A": "over",
+        "B": "on",
+        "C": "in"
+      },
+      "答案": "A",
+      "解析": "over the/your holiday表示\"在假期期间\"。",
+      "知识点": [
+        "介词over",
+        "假期表达"
+      ]
+    },
+    {
+      "id": 22,
+      "类别": "旅行与假期",
+      "难度": "中等",
+      "题干": "Last summer holiday, my family _____ to Hainan.",
+      "选项": {
+        "A": "go",
+        "B": "went",
+        "C": "will go"
+      },
+      "答案": "B",
+      "解析": "Last summer holiday表示过去时间，go的过去式是went。",
+      "知识点": [
+        "一般过去时",
+        "不规则动词go-went"
+      ]
+    },
+    {
+      "id": 23,
+      "类别": "旅行与假期",
+      "难度": "中等",
+      "题干": "How was your weekend? It _____ good. I _____ fishing.",
+      "选项": {
+        "A": "is; go",
+        "B": "was; went",
+        "C": "was; go"
+      },
+      "答案": "B",
+      "解析": "How was询问过去的情况，回答用It was。go的过去式是went。",
+      "知识点": [
+        "一般过去时",
+        "was/were"
+      ]
+    },
+    {
+      "id": 24,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "She _____ a lot of food for the party yesterday.",
+      "选项": {
+        "A": "buys",
+        "B": "bought",
+        "C": "will buy"
+      },
+      "答案": "B",
+      "解析": "yesterday表示过去时间，buy的过去式是bought。",
+      "知识点": [
+        "一般过去时",
+        "不规则动词buy-bought"
+      ]
+    },
+    {
+      "id": 25,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "Mike didn't _____ to school yesterday because he was ill.",
+      "选项": {
+        "A": "come",
+        "B": "came",
+        "C": "comes"
+      },
+      "答案": "A",
+      "解析": "didn't后面接动词原形。",
+      "知识点": [
+        "一般过去时否定句"
+      ]
+    },
+    {
+      "id": 26,
+      "类别": "一般将来时",
+      "难度": "中等",
+      "题干": "Where are you going _____ Saturday morning?",
+      "选项": {
+        "A": "in",
+        "B": "on",
+        "C": "at"
+      },
+      "答案": "B",
+      "解析": "在具体某天的上午/下午/晚上用介词on。on Saturday morning。",
+      "知识点": [
+        "介词on与具体日期"
+      ]
+    },
+    {
+      "id": 27,
+      "类别": "一般将来时",
+      "难度": "基础",
+      "题干": "_____ are you going? I'm going to the cinema.",
+      "选项": {
+        "A": "What",
+        "B": "When",
+        "C": "Where"
+      },
+      "答案": "C",
+      "解析": "根据回答\"去电影院\"可知是问地点，用Where。",
+      "知识点": [
+        "特殊疑问词where",
+        "一般将来时"
+      ]
+    },
+    {
+      "id": 28,
+      "类别": "一般过去时",
+      "难度": "基础",
+      "题干": "Last night I _____ TV with my parents.",
+      "选项": {
+        "A": "watch",
+        "B": "watched",
+        "C": "watches"
+      },
+      "答案": "B",
+      "解析": "Last night是过去时间标志，watch的过去式是watched（规则变化加ed）。",
+      "知识点": [
+        "一般过去时",
+        "规则动词过去式"
+      ]
+    },
+    {
+      "id": 29,
+      "类别": "一般过去时",
+      "难度": "中等",
+      "题干": "I _____ my room and _____ my clothes yesterday.",
+      "选项": {
+        "A": "cleaned; washed",
+        "B": "clean; wash",
+        "C": "cleaned; wash"
+      },
+      "答案": "A",
+      "解析": "yesterday表示过去时间，两个动词都要用过去式。clean→cleaned, wash→washed。",
+      "知识点": [
+        "一般过去时",
+        "规则动词过去式",
+        "并列结构"
+      ]
+    },
+    {
+      "id": 30,
+      "类别": "比较级与最高级",
+      "难度": "提高",
+      "题干": "The yellow pencil is _____ of the three.",
+      "选项": {
+        "A": "longer",
+        "B": "longest",
+        "C": "the longest"
+      },
+      "答案": "C",
+      "解析": "of the three表示三者中，用最高级the longest。",
+      "知识点": [
+        "最高级",
+        "the + 最高级 + of"
+      ]
+    },
+    {
+      "id": 31,
+      "类别": "一般将来时",
+      "难度": "中等",
+      "题干": "What _____ you going to buy for your mother?",
+      "选项": {
+        "A": "do",
+        "B": "are",
+        "C": "did"
+      },
+      "答案": "B",
+      "解析": "be going to结构中，主语you对应的be动词是are。",
+      "知识点": [
+        "一般将来时be going to"
+      ]
+    },
+    {
+      "id": 32,
+      "类别": "一般过去时",
+      "难度": "提高",
+      "题干": "She _____ to music and _____ a picture last night.",
+      "选项": {
+        "A": "listened; drew",
+        "B": "listen; draw",
+        "C": "listened; drawed"
+      },
+      "答案": "A",
+      "解析": "last night是过去时间。listen→listened是规则变化；draw→drew是不规则变化，不是drawed。",
+      "知识点": [
+        "一般过去时",
+        "不规则动词draw-drew"
+      ]
+    },
+    {
+      "id": 33,
+      "类别": "there be句型",
+      "难度": "中等",
+      "题干": "There _____ no library in my old school three years ago.",
+      "选项": {
+        "A": "is",
+        "B": "was",
+        "C": "were"
+      },
+      "答案": "B",
+      "解析": "three years ago是过去时间，library是单数，there be的过去式用was。",
+      "知识点": [
+        "there be过去时",
+        "was"
+      ]
+    },
+    {
+      "id": 34,
+      "类别": "there be句型",
+      "难度": "中等",
+      "题干": "There _____ many trees here before, but now there _____ many tall buildings.",
+      "选项": {
+        "A": "were; are",
+        "B": "are; were",
+        "C": "was; is"
+      },
+      "答案": "A",
+      "解析": "before表示以前用过去时were，now表示现在用一般现在时are。many + 复数名词用were/are。",
+      "知识点": [
+        "there be过去时与现在时对比"
+      ]
+    },
+    {
+      "id": 35,
+      "类别": "代词",
+      "难度": "中等",
+      "题干": "This is not my bag. _____ is over there.",
+      "选项": {
+        "A": "My",
+        "B": "Mine",
+        "C": "I"
+      },
+      "答案": "B",
+      "解析": "mine = my bag，名词性物主代词可以单独使用，代替\"形容词性物主代词+名词\"。",
+      "知识点": [
+        "名词性物主代词mine"
+      ]
+    },
+    {
+      "id": 36,
+      "类别": "代词",
+      "难度": "基础",
+      "题干": "These are _____ books. _____ are new.",
+      "选项": {
+        "A": "our; They",
+        "B": "we; They",
+        "C": "our; It"
+      },
+      "答案": "A",
+      "解析": "books前用形容词性物主代词our；books是复数，代词用They。",
+      "知识点": [
+        "形容词性物主代词",
+        "代词指代"
+      ]
+    },
+    {
+      "id": 37,
+      "类别": "情景交际",
+      "难度": "基础",
+      "题干": "Thank you very much! _____",
+      "选项": {
+        "A": "You're welcome.",
+        "B": "That's OK.",
+        "C": "Both A and B."
+      },
+      "答案": "C",
+      "解析": "对感谢的回答可以说You're welcome.或That's OK.，两者都可以。",
+      "知识点": [
+        "日常交际用语",
+        "感谢与回应"
+      ]
+    },
+    {
+      "id": 38,
+      "类别": "情景交际",
+      "难度": "基础",
+      "题干": "Excuse me. How can I get to the post office? _____",
+      "选项": {
+        "A": "I'm sorry.",
+        "B": "Go straight and turn left.",
+        "C": "It's beautiful."
+      },
+      "答案": "B",
+      "解析": "问路的回答应该是给出方向指引。Go straight and turn left.直走然后左转。",
+      "知识点": [
+        "问路与指路"
+      ]
+    },
+    {
+      "id": 39,
+      "类别": "时间与频率副词",
+      "难度": "中等",
+      "题干": "He _____ goes to school at 7:30. He is never late.",
+      "选项": {
+        "A": "always",
+        "B": "sometimes",
+        "C": "never"
+      },
+      "答案": "A",
+      "解析": "后面说他从不迟到，说明他总是7:30去上学，用always。",
+      "知识点": [
+        "频率副词always"
+      ]
+    },
+    {
+      "id": 40,
+      "类别": "情态动词",
+      "难度": "中等",
+      "题干": "You _____ cross the road when the light is red.",
+      "选项": {
+        "A": "must",
+        "B": "mustn't",
+        "C": "can"
+      },
+      "答案": "B",
+      "解析": "红灯时不能过马路，用mustn't表示\"禁止\"。",
+      "知识点": [
+        "情态动词mustn't",
+        "交通规则"
+      ]
+    },
+    {
+      "id": 41,
+      "类别": "阅读与情景交际",
+      "难度": "中等",
+      "题干": "It's raining outside. You should _____.",
+      "选项": {
+        "A": "wear a hat",
+        "B": "take an umbrella",
+        "C": "wear sunglasses"
+      },
+      "答案": "B",
+      "解析": "外面下雨了应该带把伞。take an umbrella。",
+      "知识点": [
+        "情景理解",
+        "建议表达"
+      ]
+    },
+    {
+      "id": 42,
+      "类别": "介词搭配",
+      "难度": "基础",
+      "题干": "My birthday is _____ January 5th.",
+      "选项": {
+        "A": "in",
+        "B": "on",
+        "C": "at"
+      },
+      "答案": "B",
+      "解析": "在具体某一天用介词on。January 5th是具体日期。",
+      "知识点": [
+        "介词on与具体日期"
+      ]
+    }
+  ]
+}

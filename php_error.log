@@ -1,0 +1,27 @@
+[Sun Sep  6 01:44:18 2026] PHP 8.4.25 Development Server (http://localhost:8080) started
+[Sun Sep  6 01:44:20 2026] [::1]:11635 Accepted
+[Sun Sep  6 01:44:20 2026] [::1]:11635 Closing
+[Sun Sep  6 01:45:01 2026] [::1]:11682 Accepted
+[Sun Sep  6 01:45:01 2026] [::1]:11682 Closing
+[Sun Sep  6 01:45:01 2026] [::1]:11684 Accepted
+[Sun Sep  6 01:45:01 2026] [::1]:11684 Closing
+[Sun Sep  6 01:45:01 2026] [::1]:11685 Accepted
+[Sun Sep  6 01:45:01 2026] [::1]:11685 Closing
+[Sun Sep  6 01:45:59 2026] [::1]:30566 Accepted
+[Sun Sep  6 01:45:59 2026] [::1]:30566 Closing
+[Sun Sep  6 01:45:59 2026] [::1]:8497 Accepted
+[Sun Sep  6 01:45:59 2026] [::1]:16755 Accepted
+[Sun Sep  6 01:46:00 2026] [::1]:1461 Accepted
+[Sun Sep  6 01:46:00 2026] [::1]:1461 Closing
+[Sun Sep  6 01:47:49 2026] [::1]:8497 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sun Sep  6 01:47:49 2026] [::1]:8497 Closing
+[Sun Sep  6 01:47:49 2026] [::1]:51377 Accepted
+[Sun Sep  6 01:47:49 2026] [::1]:16755 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sun Sep  6 01:47:49 2026] [::1]:16755 Closing
+[Sun Sep  6 01:47:49 2026] [::1]:51377 Closing
+[Sun Sep  6 01:47:49 2026] [::1]:59477 Accepted
+[Sun Sep  6 01:47:49 2026] [::1]:14683 Accepted
+[Sun Sep  6 01:49:25 2026] [::1]:44373 Accepted
+[Sun Sep  6 01:49:25 2026] [::1]:44373 Closing
+[Sun Sep  6 01:49:50 2026] [::1]:44402 Accepted
+[Sun Sep  6 01:49:50 2026] [::1]:44402 Closing

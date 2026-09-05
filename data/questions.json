@@ -1,0 +1,332 @@
+{
+  "chinese": [
+    {
+      "q": "“月亮”的正确拼音是？",
+      "options": [
+        "yuè liàng",
+        "yè liàng",
+        "yuè lián",
+        "yuè làng"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "“月”读 yuè，“亮”读 liàng。"
+    },
+    {
+      "q": "“明”字是由哪两个部分组成的？",
+      "options": [
+        "日 + 月",
+        "日 + 目",
+        "木 + 月",
+        "口 + 月"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "日月明，日和月组成“明”。"
+    },
+    {
+      "q": "下列词语中没有错别字的是？",
+      "options": [
+        "在见",
+        "再见",
+        "在见你",
+        "在见啦"
+      ],
+      "answer": 1,
+      "grade": 1,
+      "explain": "正确写法是“再见”。"
+    },
+    {
+      "q": "“春眠不觉晓”的下一句是？",
+      "options": [
+        "处处闻啼鸟",
+        "夜来风雨声",
+        "花落知多少",
+        "床前明月光"
+      ],
+      "answer": 0,
+      "grade": 2,
+      "explain": "出自《春晓》：春眠不觉晓，处处闻啼鸟。"
+    },
+    {
+      "q": "“高兴”的近义词是？",
+      "options": [
+        "生气",
+        "开心",
+        "难过",
+        "伤心"
+      ],
+      "answer": 1,
+      "grade": 1,
+      "explain": "“开心”和“高兴”意思相近。"
+    },
+    {
+      "q": "“一”字加一笔可以变成下列哪个字？",
+      "options": [
+        "二",
+        "三",
+        "大",
+        "人"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "“一”加一横变成“二”（也可变“十”“七”等）。"
+    },
+    {
+      "q": "“书”的拼音是？",
+      "options": [
+        "shū",
+        "sū",
+        "shōu",
+        "shuō"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "“书”读 shū。"
+    },
+    {
+      "q": "下列哪一句是比喻句？",
+      "options": [
+        "他跑得像兔子一样快",
+        "他跑了",
+        "他笑了",
+        "他来了"
+      ],
+      "answer": 0,
+      "grade": 3,
+      "explain": "把“他”比作“兔子”，是比喻。"
+    },
+    {
+      "q": "“红”的反义词（常见对子）是？",
+      "options": [
+        "白",
+        "绿",
+        "蓝",
+        "黄"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "红对联常配白（或黑），这里取“白”。"
+    }
+  ],
+  "math": [
+    {
+      "q": "3 + 5 = ?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "grade": 1,
+      "explain": "3 + 5 = 8。"
+    },
+    {
+      "q": "12 - 7 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "grade": 1,
+      "explain": "12 - 7 = 5。"
+    },
+    {
+      "q": "4 × 3 = ?",
+      "options": [
+        "7",
+        "12",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "grade": 2,
+      "explain": "4 × 3 = 12。"
+    },
+    {
+      "q": "15 ÷ 3 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "grade": 2,
+      "explain": "15 ÷ 3 = 5。"
+    },
+    {
+      "q": "小明有 6 颗糖，吃了 2 颗，还剩几颗？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "8"
+      ],
+      "answer": 1,
+      "grade": 1,
+      "explain": "6 - 2 = 4（颗）。"
+    },
+    {
+      "q": "9 + 8 = ?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "grade": 2,
+      "explain": "9 + 8 = 17。"
+    },
+    {
+      "q": "20 - 13 = ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "grade": 2,
+      "explain": "20 - 13 = 7。"
+    },
+    {
+      "q": "5 × 4 = ?",
+      "options": [
+        "9",
+        "20",
+        "15",
+        "25"
+      ],
+      "answer": 1,
+      "grade": 2,
+      "explain": "5 × 4 = 20。"
+    },
+    {
+      "q": "一个苹果 2 元，买 3 个要几元？",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 1,
+      "grade": 2,
+      "explain": "2 × 3 = 6（元）。"
+    }
+  ],
+  "english": [
+    {
+      "q": "“苹果”的英语是？",
+      "options": [
+        "apple",
+        "banana",
+        "orange",
+        "pear"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "apple = 苹果。"
+    },
+    {
+      "q": "“猫”的英语是？",
+      "options": [
+        "cat",
+        "dog",
+        "pig",
+        "cow"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "cat = 猫。"
+    },
+    {
+      "q": "“Hello” 的意思是？",
+      "options": [
+        "你好",
+        "再见",
+        "谢谢",
+        "对不起"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "Hello = 你好。"
+    },
+    {
+      "q": "“红色”的英语是？",
+      "options": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "red = 红色。"
+    },
+    {
+      "q": "选词填空：I ___ a student.（我是一名学生）",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 0,
+      "grade": 2,
+      "explain": "I 搭配 am。"
+    },
+    {
+      "q": "“书”的英语是？",
+      "options": [
+        "book",
+        "pen",
+        "bag",
+        "desk"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "book = 书。"
+    },
+    {
+      "q": "“狗”的英语是？",
+      "options": [
+        "dog",
+        "cat",
+        "pig",
+        "duck"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "dog = 狗。"
+    },
+    {
+      "q": "“Thank you” 的意思是？",
+      "options": [
+        "谢谢",
+        "对不起",
+        "请",
+        "不客气"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "Thank you = 谢谢。"
+    },
+    {
+      "q": "“太阳”的英语是？",
+      "options": [
+        "sun",
+        "moon",
+        "star",
+        "sky"
+      ],
+      "answer": 0,
+      "grade": 1,
+      "explain": "sun = 太阳。"
+    }
+  ]
+}

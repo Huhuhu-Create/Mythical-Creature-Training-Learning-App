@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>神兽养成 · 学习小游戏</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <h1>🐲 神兽养成 · 学习小游戏</h1>
+      <p class="subtitle">学习语文 / 数学 / 英语，把神兽养大吧！</p>
+    </header>
+
+    <main class="layout">
+      <!-- 左：神兽面板 -->
+      <section class="card pet-card">
+        <div class="pet-emoji" id="petEmoji">🥚</div>
+        <div class="pet-name">
+          <span id="petName">小白</span>
+          <button class="mini-btn" id="renameBtn" title="改名">✏️</button>
+        </div>
+        <div class="pet-stage" id="petStage">神兽蛋</div>
+
+        <div class="bar">
+          <label>成长经验</label>
+          <div class="bar-track"><div class="bar-fill exp" id="expFill"></div></div>
+          <span class="bar-text" id="expText">0</span>
+        </div>
+        <div class="bar">
+          <label>心情</label>
+          <div class="bar-track"><div class="bar-fill happy" id="happyFill"></div></div>
+          <span class="bar-text" id="happyText">100</span>
+        </div>
+        <div class="bar">
+          <label>饱食</label>
+          <div class="bar-track"><div class="bar-fill food" id="foodFill"></div></div>
+          <span class="bar-text" id="foodText">100</span>
+        </div>
+
+        <div class="coins">💰 金币：<b id="coinNum">0</b></div>
+
+        <div class="pet-actions">
+          <button class="action-btn signin-btn" id="signinBtn">📅 每日签到（+20 金币）</button>
+          <button class="action-btn" id="feedBtn">🍖 喂食（20金币）</button>
+          <button class="action-btn ghost" id="resetBtn">🔄 重新开始</button>
+        </div>
+        <div class="toast" id="toast"></div>
+      </section>
+
+      <!-- 右：学习与统计 -->
+      <section class="card play-card">
+        <div id="homeView">
+          <h2>选择学科与年级开始学习</h2>
+
+          <div class="subjects">
+            <button class="subject-btn chinese" data-subject="语文">
+              <span class="s-emoji">📖</span><span class="s-name">语文</span>
+            </button>
+            <button class="subject-btn math" data-subject="数学">
+              <span class="s-emoji">➗</span><span class="s-name">数学</span>
+            </button>
+            <button class="subject-btn english" data-subject="英语">
+              <span class="s-emoji">🔤</span><span class="s-name">英语</span>
+            </button>
+          </div>
+
+          <div class="filter-row">
+            <span>年级：</span>
+            <select id="gradeSelect">
+              <option value="">全部</option>
+              <option value="一年级">一年级</option>
+              <option value="二年级">二年级</option>
+              <option value="三年级">三年级</option>
+              <option value="四年级">四年级</option>
+              <option value="五年级">五年级</option>
+              <option value="六年级">六年级</option>
+            </select>
+            <span>学期：</span>
+            <select id="termSelect">
+              <option value="">不限</option>
+              <option value="上册">上册</option>
+              <option value="下册">下册</option>
+            </select>
+          </div>
+
+          <div id="bankList" class="bank-list"></div>
+
+          <div class="stats">
+            <h3>📊 学习统计</h3>
+            <div class="stat-grid">
+              <div class="stat"><b id="stTotal">0</b><span>总答题</span></div>
+              <div class="stat"><b id="stCorrect">0</b><span>答对</span></div>
+              <div class="stat"><b id="stRate">0%</b><span>正确率</span></div>
+            </div>
+            <ul class="subj-stat">
+              <li>📖 语文：<span id="stC">0/0</span></li>
+              <li>➗ 数学：<span id="stM">0/0</span></li>
+              <li>🔤 英语：<span id="stE">0/0</span></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- 答题视图 -->
+        <div id="quizView" class="hidden">
+          <div class="quiz-head">
+            <button class="mini-btn" id="backBtn">← 返回</button>
+            <span id="quizProgress">第 1 / 5 题</span>
+            <span id="comboBox"></span>
+          </div>
+          <div class="quiz-body">
+            <div class="quiz-tags" id="quizTags"></div>
+            <div class="quiz-q" id="quizQ">题目</div>
+            <div class="quiz-options" id="quizOptions"></div>
+            <div class="quiz-feedback hidden" id="quizFeedback"></div>
+            <button class="next-btn hidden" id="nextBtn">下一题 →</button>
+          </div>
+        </div>
+
+        <!-- 结算视图 -->
+        <div id="resultView" class="hidden">
+          <h2 id="resultTitle">本次学习完成！</h2>
+          <div class="result-stats">
+            <div class="stat"><b id="rCorrect">0</b><span>答对</span></div>
+            <div class="stat"><b id="rExp">0</b><span>获得经验</span></div>
+            <div class="stat"><b id="rCoin">0</b><span>获得金币</span></div>
+          </div>
+          <div class="evolve-msg hidden" id="evolveMsg"></div>
+          <button class="action-btn" id="againBtn">再学一次</button>
+          <button class="action-btn ghost" id="homeBtn">回到主页</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="foot">
+      数据保存在 <code>D:\QClaw\1112\data</code> · 题库放在 <code>banks/</code> · 单人本地使用
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
